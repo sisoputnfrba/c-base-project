@@ -43,7 +43,7 @@ Para importar el proyecto en Visual Studio Code, alcanza con abrir la carpeta
 del proyecto. Luego, se puede compilar y ejecutar moviéndonos a la pestaña de
 "Run and Debug" y seleccionando "run":
 
-![vscode-run-debug](https://github.com/RaniAgus/c-base-project/assets/39303639/0d80ef1f-2726-47d8-bd83-3bd1cb8ed864)
+![vscode-run-debug](https://github.com/RaniAgus/c-base-project/assets/39303639/1b20ce4b-a98f-4175-a7c2-90ff57412e6e)
 
 ## Contributors
 
