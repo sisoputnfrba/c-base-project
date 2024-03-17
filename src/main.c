@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.h>
 #include <commons/txt.h>
 
 int main(int argc, char* argv[]) {
