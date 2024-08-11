@@ -46,6 +46,11 @@ del proyecto. Luego, se puede compilar y ejecutar moviéndonos a la pestaña de
 
 ![vscode-run-debug](https://github.com/sisoputnfrba/c-base-project/assets/39303639/d83bf45a-d32e-4762-bdc2-57854dc13926)
 
+## Guías útiles
+
+- [Cómo interpretar errores de compilación](https://docs.utnso.com.ar/primeros-pasos/primer-proyecto-c#errores-de-compilacion)
+- [Cómo utilizar el debugger](https://docs.utnso.com.ar/guias/herramientas/debugger)
+- [Cómo configuramos Visual Studio Code](https://docs.utnso.com.ar/guias/herramientas/code)
 
 ## Contributors
 
