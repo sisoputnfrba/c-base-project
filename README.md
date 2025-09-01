@@ -9,7 +9,7 @@ Para poder compilar y ejecutar el proyecto, es necesario tener instaladas las
 siguientes herramientas:
 
 ```bash
-sudo apt-get install build-essential libreadline-dev
+sudo apt-get install build-essential libreadline-dev libssl-dev
 ```
 
 Y, además, la biblioteca [so-commons-library] de la cátedra:
