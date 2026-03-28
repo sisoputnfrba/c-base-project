@@ -1,5 +1,5 @@
 # Libraries
-LIBS=commons pthread readline m crypto
+LIBS=commons pthread readline m
 
 # Custom libraries' paths
 SHARED_LIBPATHS=
